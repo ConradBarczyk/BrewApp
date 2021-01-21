@@ -1,0 +1,7 @@
+{
+  "name": "BrewApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
